@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  position: relative;
+  bottom: 340px;
+  border-radius: 100%;
+  border: none;
+  background-color: white;
+}
+.div {
+  background-color: black;
+}
